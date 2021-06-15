@@ -6,7 +6,7 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 
 Öncelikle projeyi klonlayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-https://github.com/nesquik41/kodluyoruzilkrepo.git
+    git clone https://github.com/nesquik41/kodluyoruzilkrepo.git
 
 
 ## **Usage**
